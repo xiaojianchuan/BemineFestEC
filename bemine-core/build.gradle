@@ -31,4 +31,7 @@ dependencies {
     androidTestImplementation 'com.android.support.test:runner:1.0.1'
     androidTestImplementation 'com.android.support.test.espresso:espresso-core:3.0.1'
     implementation project(':bemine-annotations')
+    //字体图标
+    compile 'com.joanzapata.iconify:android-iconify-ionicons:2.2.1'
+    compile 'com.joanzapata.iconify:android-iconify-fontawesome:2.2.1'
 }
